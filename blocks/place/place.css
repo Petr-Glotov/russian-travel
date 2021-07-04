@@ -1,13 +1,3 @@
-@import url('./__image/place__image.css');
-@import url('./__link/place__link.css');
-@import url('./__paragraph/place_paragraph.css');
-@import url('./__title-column/place__title-column.css');
-@import url('./__text-column/place__text-column.css');
-@import url('./__title/place__title.css');
-@import url('./__website/place__website.css');
-@import url('./__website/_mt-fixed/place__website_mt-fixed.css');
-@import url('./__url-heading/place__url-heading.css');
-
 .place {
     display: flex;
     margin-bottom: 80px;
